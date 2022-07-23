@@ -9,4 +9,4 @@ Here gives the **full modeling cycle step by step**:
 
 ## 3. Result
 
-- [Choose Diamonds Wisely: Visualize the price behind diamonds]()
+- [Choose Diamonds Wisely: Visualize the price behind diamonds](./diamonds_report.pdf)
